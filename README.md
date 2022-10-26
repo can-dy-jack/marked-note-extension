@@ -37,4 +37,4 @@ Output:
 ```
 
 ## reference resources
-- [marked-admonition-extension](https://github.com/xiefucai/marked-admonition-extension)
+- [marked-admonition-extension](https://github.com/xiefucai/marked-admonition-extension) - 该库下载不了，还会破坏运行环境，我不知道为啥；于是就写了这个库，核心代码是 marked-admonition-extension 的源码
