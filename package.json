@@ -1,0 +1,32 @@
+{
+  "name": "marked-note-extension",
+  "version": "0.1.1",
+  "description": "an note extension for marked.",
+  "main": "./lib/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/can-dy-jack/marked-note-extension.git"
+  },
+  "keywords": [
+    "marked",
+    "marked extension",
+    "markdown",
+    "markdown plugin"
+  ],
+  "author": "kart jim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/can-dy-jack/marked-note-extension/issues"
+  },
+  "homepage": "https://github.com/can-dy-jack/marked-note-extension#readme",
+  "dependencies": {
+    "marked": "^4.1.1"
+  },
+  "file": [
+    "lib"
+  ]
+}
