@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/can-dy-jack/marked-note-extension.git"
   },
+  "private": false,
   "keywords": [
     "marked",
     "marked extension",
@@ -25,7 +26,7 @@
   "dependencies": {
     "marked": "^4.1.1"
   },
-  "file": [
-    "lib/index.js"
+  "files": [
+    "lib"
   ]
 }
